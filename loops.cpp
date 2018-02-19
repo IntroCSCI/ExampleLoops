@@ -8,7 +8,7 @@ int main()
 {
   string input;
   int last;
-  char current = '';
+  char current = ' ';
   bool found = false;
   cout<<"Enter a word: ";
   cin>>input;
